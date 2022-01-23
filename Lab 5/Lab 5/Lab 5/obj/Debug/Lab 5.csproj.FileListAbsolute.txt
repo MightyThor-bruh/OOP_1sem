@@ -1,0 +1,7 @@
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ООП\Lab 5\Lab 5\Lab 5\bin\Debug\Lab 5.exe.config
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ООП\Lab 5\Lab 5\Lab 5\bin\Debug\Lab 5.exe
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ООП\Lab 5\Lab 5\Lab 5\bin\Debug\Lab 5.pdb
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ООП\Lab 5\Lab 5\Lab 5\obj\Debug\Lab 5.csprojAssemblyReference.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ООП\Lab 5\Lab 5\Lab 5\obj\Debug\Lab 5.csproj.CoreCompileInputs.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ООП\Lab 5\Lab 5\Lab 5\obj\Debug\Lab 5.exe
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ООП\Lab 5\Lab 5\Lab 5\obj\Debug\Lab 5.pdb
