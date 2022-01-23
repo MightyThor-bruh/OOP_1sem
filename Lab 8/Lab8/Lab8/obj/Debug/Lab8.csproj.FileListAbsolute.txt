@@ -1,0 +1,7 @@
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ООП\Lab 8\Lab8\Lab8\bin\Debug\Lab8.exe.config
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ООП\Lab 8\Lab8\Lab8\bin\Debug\Lab8.exe
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ООП\Lab 8\Lab8\Lab8\bin\Debug\Lab8.pdb
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ООП\Lab 8\Lab8\Lab8\obj\Debug\Lab8.csprojAssemblyReference.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ООП\Lab 8\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ООП\Lab 8\Lab8\Lab8\obj\Debug\Lab8.exe
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ООП\Lab 8\Lab8\Lab8\obj\Debug\Lab8.pdb
