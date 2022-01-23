@@ -1,0 +1,7 @@
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ООП\Lab 13\Lab13_\Lab13_\bin\Debug\Lab13_.exe.config
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ООП\Lab 13\Lab13_\Lab13_\bin\Debug\Lab13_.exe
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ООП\Lab 13\Lab13_\Lab13_\bin\Debug\Lab13_.pdb
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ООП\Lab 13\Lab13_\Lab13_\obj\Debug\Lab13_.csprojAssemblyReference.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ООП\Lab 13\Lab13_\Lab13_\obj\Debug\Lab13_.csproj.CoreCompileInputs.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ООП\Lab 13\Lab13_\Lab13_\obj\Debug\Lab13_.exe
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\ООП\Lab 13\Lab13_\Lab13_\obj\Debug\Lab13_.pdb
